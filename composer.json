@@ -1,6 +1,6 @@
 {
     "name": "cradlephp/cradle-captcha",
-    "type": "plugin",
+    "type": "cradle-package",
     "description": "Google Captcha handler for Cradle",
     "minimum-stability": "dev",
     "keywords": [
