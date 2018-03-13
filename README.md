@@ -1,5 +1,5 @@
 # cradle-captcha
-Google Captcha Helpers
+Google Captcha Helpers 
 
 ## Install
 
