@@ -25,7 +25,7 @@ $cradle->on('captcha-load', function (Request $request, Response $response) {
 
     //render the key
     $key = $config['token'];
-    $request->setStage('captcha', $key);
+    $request->setResults('captcha', $key);
 });
 
 /**
